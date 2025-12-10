@@ -1,63 +1,59 @@
-# Contributing
+# Contribs of a Good Ethics Framework
 
-*This project is intentionally a seed. It needs perspectives beyond one person's view to become something useful.*
+**What should a practical ethics framework actually do?**
+
+## Overview
+
+Before diving into specific professions or situations, we need to ask: what makes an ethics framework *good*? Not good in the abstract—good in practice. Something people will actually use.
+
+This page outlines the characteristics we think matter. These are open for debate.
+
+---
+## Shepherding Principles
+* Start with kindness
+* Tough minded, tender hearted
+* We're in this together, for the long run
 
 ---
 
-## How to Participate
+## The Characteristics
 
-### Share ideas
-- Suggest additions or changes
-- Point out blind spots
-- Share relevant resources or frameworks
-- Ask clarifying questions
+**In vs. Out:** Clear articulation of who is included in this, and who is outside.
 
-No contribution is too small. A single good question can shift the whole direction.
+**More responsibility vs. Less responsibility** Clearly defining a hierarchy of responsibility. Who, for example, should be held to a higher standard.
 
-### Propose changes (more involved)
-Submit a Pull Request to:
-- Improve existing content
-- Add profession-specific sections
-- Fix errors or unclear writing
-- Expand the framework
+**1. Actionable**
+It should help people make decisions, not just think about them.
 
-### Fork it (go your own way)
-This is CC-BY-SA licensed. If you want to take this in a different direction—do it. That's the point of seeding.
+**2. Accessible & Democratic**
+It shouldn't require a philosophy degree to understand or apply. Likewise, this isn't just for your boss to contemplate - everyone in the field should know what is happening and their role in this.  "Just following orders" wasn't acceptable in 1945, so it is definitely not acceptable today.
 
----
+**3. Honest about tradeoffs**
+Real ethical decisions involve competing goods. A useful framework acknowledges this.
 
-## Guidelines
+**4. Scalable**
+It should work for individual decisions and organizational policy.
 
-**Be practical.** Abstract ethics discussions are everywhere. We're trying to build something people can actually use.
+**5. Testable**
+You should be able to ask: "Did applying this lead to better outcomes?"
 
-**Be clear.** Jargon excludes people. Write like you're explaining to a smart colleague outside your field.
+**5. Consequential**
+How do we hold each other accountable? Words are cheap, so let's be explicit about what should happen to rule breakers, but also the role everyone else plays in enforcing our standards.
 
-**Be constructive.** Disagree with ideas, but engage with them seriously.
+**6. Clear Vision**
+What does the ideal future look like?
 
-**Credit sources.** If you're drawing on existing frameworks or thinkers, cite them.
+**7. Clear Mission**
+Critically, this tells everyone what is in-bounds, what is out of bounds.
 
 ---
 
-## What We're Looking For
+## Open Questions
 
-Right now, the biggest needs are:
-
-1. **Refinement of the core framework** - Are the characteristics of a good ethics framework actually the right ones?
-
-2. **Profession-specific expertise** - How does this apply in your field? What's missing?
-
-3. **Edge cases and stress tests** - Where does this framework break down? What hard cases should it address?
-
-4. **The License for _this_** - Licenses are tricky: What should we do to keep this seed from being turning against us?
-
-5. **Platform Expertise** - We're starting on GitHub.com. What is best-practice for scaling communities like ours?
-
-6. **Design** - Let's make this site prettier, more inviting, more accessible.
-
-
+- What's missing from this list?
+- Are any of these in tension with each other?
+- How do we weight these when they conflict?
 
 ---
 
-## Questions?
-
-Open an issue. We'll figure it out together.
+[Back to home](README.md) | [How to contribute](CONTRIBUTING.md)
