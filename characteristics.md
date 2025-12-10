@@ -1,8 +1,6 @@
 # Characteristics of a Good Ethics Framework
 
-*What should a practical ethics framework actually do?*
-
----
+**What should a practical ethics framework actually do?**
 
 ## Overview
 
