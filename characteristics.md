@@ -9,7 +9,7 @@ Before diving into specific professions or situations, we need to ask: what make
 This page outlines the characteristics we think matter. These are open for debate.
 
 ---
-## Sheparding Principles
+## Shepherding Principles
 * Start with kindness
 * Tough minded, tender hearted 
 * We're in this together, for the long run
