@@ -42,6 +42,12 @@ You should be able to ask: "Did applying this lead to better outcomes?"
 **5. Consequential**
 How do we hold each other accountable? Words are cheap, so let's be explicit about what should happen to rule breakers, but also the role everyone else plays in enforcing our standards.
 
+**6. Clear Vision** 
+What does the ideal future look like?
+
+**7. Clear Mission**
+Critically, this tells everyone what is in-bounds, what is out of bounds. 
+
 ---
 
 ## Open Questions
