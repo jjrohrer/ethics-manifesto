@@ -6,12 +6,7 @@
 
 ## How to Participate
 
-### Getting started (easiest)
-- View open [Issue](../../issues) and see what is happening
-- Read the [wiki](../../wiki)
-
 ### Share ideas
-Open an [Issue](../../issues) to:
 - Suggest additions or changes
 - Point out blind spots
 - Share relevant resources or frameworks
