@@ -56,4 +56,4 @@ Critically, this tells everyone what is in-bounds, what is out of bounds.
 
 ---
 
-[Back to home](README.md) | [How to contribute](CONTRIBUTING.md)
+[Back to home](README.md) | [How to contribute](contributing)

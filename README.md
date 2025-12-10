@@ -34,7 +34,7 @@ We're building some seed foundations:
 
 ## Get Involved
 
-This needs more voices than one. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to participate.
+This needs more voices than one. See [Contributing](contributing.md) for how to participate.
 
 You can:
 - Open an issue to discuss ideas
