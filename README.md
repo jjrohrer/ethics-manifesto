@@ -27,8 +27,8 @@ Because this is a statement of intent, not a finished system. A manifesto says: 
 We're building some seed foundations:
 - [ ] Characteristics of a good ethics framework
 - [ ] [Business ethics application](verticals/business.md)
-- [ ] IT/Tech ethics application
-- [ ] Political ethics application
+- [ ] [IT/Tech ethics application](verticals/it.md)
+- [ ] [Political ethics application](verticals/politics.md)
 
 ---
 
