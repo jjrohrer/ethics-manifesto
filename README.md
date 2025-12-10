@@ -25,10 +25,10 @@ Because this is a statement of intent, not a finished system. A manifesto says: 
 🌱 **Early seed stage**
 
 We're building some seed foundations:
-- [ ] Characteristics of a good ethics framework
-- [ ] [Business ethics application](verticals/business.md)
-- [ ] [IT/Tech ethics application](verticals/it.md)
-- [ ] [Political ethics application](verticals/politics.md)
+- [ ]  [Characteristics of a good ethics framework](characteristics.md) 
+- [ ]  [Business ethics](verticals/business.md)
+- [ ]  [IT/Programmer ethics](verticals/it.md)
+- [ ]  [Political ethics](verticals/politics.md)
 
 ---
 
