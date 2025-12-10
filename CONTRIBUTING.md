@@ -1,6 +1,7 @@
 # Contributing
 
-This project is intentionally a seed. It needs perspectives beyond one person's view to become something useful.
+*This project is intentionally a seed. It needs perspectives beyond one person's view to become something useful.*
+---
 
 ## How to Participate
 
