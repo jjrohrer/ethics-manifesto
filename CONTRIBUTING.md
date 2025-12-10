@@ -4,7 +4,11 @@ This project is intentionally a seed. It needs perspectives beyond one person's 
 
 ## How to Participate
 
-### Share ideas (easiest)
+### Getting started (easiest)
+- View open [Issue](../../issues) and see what is happening
+- Read the [wiki](../../wiki)
+
+### Share ideas
 Open an [Issue](../../issues) to:
 - Suggest additions or changes
 - Point out blind spots
