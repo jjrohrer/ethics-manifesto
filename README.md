@@ -33,13 +33,7 @@ We're building some seed foundations:
 ---
 
 ## Get Involved
-[Contributing1](contributing.md)
-[Contributing2](contribs.md)
-[Contributing3](contributing/contributing.md)
-[Contributing4](contributing/contribs.md)
-[Contributing5](characteristics.md)
-[Contributing6](contributing/characteristics.md)
-This needs more voices than one. See [Contributing](contribs.md) for how to participate.
+This needs more voices than one. See [Contributing](contributing/contributions.md) for how to participate.
 
 You can:
 - Open an issue to discuss ideas

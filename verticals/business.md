@@ -18,7 +18,7 @@ Potential areas to cover:
 
 ## Want to help build this?
 
-See [Contributing](../contributing.md) for how to get involved.
+See [Contributing](../contributing/contributions.md) for how to get involved.
 
 ---
 
