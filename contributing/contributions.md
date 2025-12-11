@@ -1,15 +1,12 @@
 # Contributing
 
-This project is intentionally a seed. It needs perspectives beyond one person's view to become something useful.
+*This project is intentionally a seed. It needs perspectives beyond one person's view to become something useful.*
+
+---
 
 ## How to Participate
 
-### Getting started (easiest)
-- View open [Issue](../../issues) and see what is happening
-- Read the [wiki](../../wiki)
-
 ### Share ideas
-Open an [Issue](../../issues) to:
 - Suggest additions or changes
 - Point out blind spots
 - Share relevant resources or frameworks
@@ -64,3 +61,8 @@ Right now, the biggest needs are:
 ## Questions?
 
 Open an issue. We'll figure it out together.
+
+---
+
+[Back to home](../README.md)
+
